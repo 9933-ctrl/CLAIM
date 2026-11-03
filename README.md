@@ -20,7 +20,7 @@ python -m pip install -r requirements.txt
 pytest -q
 ```
 
-## Quick start (toy sample only)
+## Quick start
 
 ```bash
 python train_kg.py --triples data/triples.jsonl --output outputs/transe.pt --epochs 10
