@@ -1,0 +1,8 @@
+{"head":"明月","relation":"SYMBOLISES","tail":"思乡"}
+{"head":"明月","relation":"CONNOTATES_EMOTION","tail":"怀念"}
+{"head":"月","relation":"SYMBOLISES","tail":"团圆"}
+{"head":"柳","relation":"SYMBOLISES","tail":"离别"}
+{"head":"酒","relation":"CONNOTATES_EMOTION","tail":"友情"}
+{"head":"花","relation":"SYMBOLISES","tail":"春光"}
+{"head":"龙","relation":"SYMBOLISES","tail":"权威"}
+{"head":"凤","relation":"SYMBOLISES","tail":"祥瑞"}
